@@ -1,4 +1,5 @@
-📝 Documentação do Projeto: Análise Titanic LAB365
+     Documentação do Projeto: Análise Titanic LAB365
+     
 Descrição do Projeto:
 Este projeto foi desenvolvido para a atividade prática extra do curso de Introdução ao Data Science do SENAI LAB365. O foco foi realizar uma Análise Exploratória de Dados (AED) no famoso dataset do Titanic para entender quais fatores foram determinantes para a sobrevivência dos passageiros.
 
@@ -17,4 +18,5 @@ Classe Social: Passageiros da 1ª classe tiveram uma vantagem nítida de salvame
 
 3. Visualização dos Dados:
 Criei um gráfico de barras cruzando as classes sociais com o gênero e a sobrevivência. Ele está salvo como survival_plot.png e ajuda a visualizar como ser mulher na primeira classe era quase um passaporte para a sobrevivência, enquanto ser homem na terceira classe era o cenário de maior risco.
+
 
